@@ -1,4 +1,4 @@
-package com.witkey.familyTree.controller;
+package com.witkey.familyTree.controller.consoles;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

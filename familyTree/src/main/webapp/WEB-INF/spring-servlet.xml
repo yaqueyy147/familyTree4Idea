@@ -10,7 +10,12 @@
        http://www.springframework.org/schema/mvc
        http://www.springframework.org/schema/mvc/spring-mvc-4.1.xsd">
 
-    <context:component-scan base-package="com.witkey.familyTree" />
+    <context:component-scan base-package="com.witkey.familyTree.controller.consoles" />
+    <context:component-scan base-package="com.witkey.familyTree.controller.fronts" />
+    <context:component-scan base-package="com.witkey.familyTree.service.fronts" />
+    <context:component-scan base-package="com.witkey.familyTree.service.consoles" />
+    <context:component-scan base-package="com.witkey.familyTree.dao.consoles" />
+    <context:component-scan base-package="com.witkey.familyTree.dao.fronts" />
 
     <mvc:annotation-driven />
 

@@ -13,7 +13,6 @@
           <element id="library" level="project" name="Maven: org.eclipse.jetty.orbit:javax.servlet:2.5.0.v201103041518" />
           <element id="library" level="project" name="Maven: org.eclipse.jetty.orbit:javax.servlet.jsp:2.1.0.v201105211820" />
           <element id="library" level="project" name="Maven: org.glassfish.web:javax.servlet.jsp:2.3.2" />
-          <element id="library" level="project" name="Maven: org.glassfish:javax.el:3.0.1-b08" />
           <element id="library" level="project" name="Maven: javax.servlet.jsp:javax.servlet.jsp-api:2.3.1" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:4.1.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.1.5.RELEASE" />
